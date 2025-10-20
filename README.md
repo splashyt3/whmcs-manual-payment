@@ -77,11 +77,11 @@ You can freely use and modify it with proper credit.
 
 ---
 
-## 🌐 Connect with (OrynCloud)[https://www.oeyncloud.com]
+## 🌐 Connect with [OrynCloud](https://www.oeyncloud.com)
 
 If you have ideas, bug reports, or improvement suggestions:
 - 📫 Create an issue on GitHub
-- 💬 Join our (Discord)[https://discord.gg/57Nc2EQrCh]
+- 💬 Join our [Discord](https://discord.gg/57Nc2EQrCh)
 - ⭐ Star the repo to support the project!
 
 ---
