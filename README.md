@@ -33,10 +33,7 @@ It does **not** automatically verify or process payments — instead, it provide
 
 ## 🛠️ Installation
 
-1. Upload or clone the repository into your WHMCS directory:
-   ```bash
-   modules/gateways/discordmanual/
-   ```
+1. Upload the **modules** folder in your WHMCS root directory.
 2. In the WHMCS admin panel:
    - Navigate to **Setup → Payments → Payment Gateways**
    - Find and **activate "Discord Manual Payment"**
