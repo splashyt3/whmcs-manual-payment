@@ -55,7 +55,7 @@ It does **not** automatically verify or process payments — instead, it provide
 ## 🧩 Requirements
 
 - WHMCS v8.0 or higher  
-- PHP 7.4+  
+- PHP 8.1+  
 - A Discord Server (for manual communication)  
 
 ---
