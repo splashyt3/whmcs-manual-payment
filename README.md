@@ -77,7 +77,7 @@ You can freely use and modify it with proper credit.
 
 ---
 
-## 🌐 Connect with [OrynCloud](https://www.oeyncloud.com)
+## 🌐 Connect with [OrynCloud](https://www.oryncloud.com)
 
 If you have ideas, bug reports, or improvement suggestions:
 - 📫 Create an issue on GitHub
